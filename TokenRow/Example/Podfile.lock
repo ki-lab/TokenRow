@@ -1,12 +1,12 @@
 PODS:
-  - Alamofire (4.8.1)
-  - AlamofireImage (3.5.0):
-    - Alamofire (~> 4.8)
+  - Alamofire (4.9.1)
+  - AlamofireImage (3.6.0):
+    - Alamofire (~> 4.9)
   - CLTokenInputView (2.3.0)
-  - Eureka (5.0.0)
+  - Eureka (5.3.2)
   - TokenRow (1.5.0):
     - CLTokenInputView (~> 2.3)
-    - Eureka (~> 5.0)
+    - Eureka (~> 5.3.2)
 
 DEPENDENCIES:
   - Alamofire (~> 4.0)
@@ -15,7 +15,7 @@ DEPENDENCIES:
   - TokenRow (from `../../`)
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  https://github.com/CocoaPods/Specs.git:
     - Alamofire
     - AlamofireImage
     - CLTokenInputView
@@ -26,12 +26,12 @@ EXTERNAL SOURCES:
     :path: "../../"
 
 SPEC CHECKSUMS:
-  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
-  AlamofireImage: 1aea346f4dda2f6c67622fa5a89fcbb80d79cc16
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireImage: be9963c6582d68b39e89191f64c82a7d7bf40fdd
   CLTokenInputView: 9dc1ffb7c9d2d81787e69a63c75bd97b0b2d1e76
-  Eureka: 0f64f477ec8ef6201c6fec143d60ff5c201cf654
-  TokenRow: 1e9e6b52aefbdbc715fed25a75032b4e4d76b450
+  Eureka: 1c2b8b5892bfb0e972d0fe05f8c09fd89f8625ec
+  TokenRow: efda46480a5b315d7c42435e0ba80bf110be0ecd
 
 PODFILE CHECKSUM: ad0102dbd5d5ef8a80b3066ef488938b772a9cab
 
-COCOAPODS: 1.6.0
+COCOAPODS: 1.10.1
